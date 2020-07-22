@@ -1,5 +1,6 @@
 .wrapper {
   padding: 200px;
+  text-align: center;
 }
 
 .wrapper > h1 {
