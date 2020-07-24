@@ -1,8 +1,8 @@
 .wrapper {
   padding: 200px;
-  text-align: center;
+  align-items: center;
 }
 
-.wrapper > h1 {
+.wrapper  h1 {
   text-align: center;
 }
